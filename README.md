@@ -74,7 +74,7 @@ I'm a passionate Software Engineering student with a keen interest in developing
 |---------|-------------|------------|
 | [**🏥 Medical Management System**]([https://github.com/username/medical-management](https://github.com/sarael302/Medical-Management-System.git)) | A secure admin and doctor portal for healthcare management | `ASP.NET Core` `SQL Server` `Identity Management` |
 | [**📋 Task Management App**]([https://github.com/username/task-management](https://github.com/sarael302/Task-Management-Project.git)) | Jira-like system for efficient team collaboration | `Spring Boot` `Java` `H2 Database` |
-| [**🛠️ Artisan & Client Platform**](https://github.com/username/artisan-platform) | Connecting artisans with clients through a seamless platform | `PHP` `SQLite` `JavaScript` |
+| [**🛠️ Artisan & Client Platform**]([https://github.com/username/artisan-platform](https://github.com/sarael302/Artisans-Management-System.git)) | Connecting artisans with clients through a seamless platform | `PHP` `SQLite` `JavaScript` |
 
 </div>
 
